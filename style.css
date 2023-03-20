@@ -19,11 +19,11 @@ main{
 }
 
 .menuconteiner{
-  display:block;
+  display:none;
 }
 
 .hidden{
-  display:none;
+  display:block;
 }
 
 .mobile-menu{
